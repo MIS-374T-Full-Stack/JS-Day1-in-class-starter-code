@@ -1,24 +1,24 @@
 // alert ("Hello my name is Clint Tuttle");
 
 
-
 //variables
 const myName = ""
 const fruits = ['', '', '', '', ''];
 const car = {type:"", model:""};
 
 
-
 //Challenge 1a
 function sayHelloWorld() {
 
     // Step 1 - Move your alert that runs on page load to here
-    alert ("Hello my name is Clint Tuttle");
+    // PASTE ALERT FROM TOP OF PAGE HERE
+
 
     // Step 2 - Update the alert to display a concatenation of the variables above that spell out something like this:
-    // Hi my name is Clint.  I like apples and I drive a Silver Prius.  You'll need to add color to the car object
-
+    // Hi my name is Clint.  I like apples and I drive a silver Toyota Prius.  You'll need to add color to the car object
+  
 }
+
 
 //Challenge 1b
 function dogYears() {
